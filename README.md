@@ -11,8 +11,8 @@ A rear-wheel-drive remote-controlled (RC) car powered by an **Arduino Uno** and 
 
 |CAR | OVERVIEW|
 | :-: | :-: |
-| ![Immagine 1](doc/images/IMG_7228.jpg) | ![Immagine 2](doc/images/IMG_7229.jpg) |
-| ![Immagine 3](doc/images/IMG_7230.jpg) | ![Immagine 4](doc/images/IMG_7231.jpg) |
+| ![](doc/images/IMG_7228.jpg) | ![](doc/images/IMG_7229.jpg) |
+| ![](doc/images/IMG_7230.jpg) | ![](doc/images/IMG_7231.jpg) |
 
 
 ---
@@ -44,7 +44,7 @@ A rear-wheel-drive remote-controlled (RC) car powered by an **Arduino Uno** and 
 | **Servo** | SG90 | 
 | **Sensor** | DHT11 | 
 | **Display** | LCD I2C 16x2 | 
-| **Generic** | resistors, buzzer | 
+| **Generic** | resistors, transistor,  buzzer | 
 
 
 ---
